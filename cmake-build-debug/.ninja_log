@@ -1,0 +1,6 @@
+# ninja log v6
+2	338	7466224473880298	build.ninja	e410f547ac86ec93
+3	107	7466216032523752	CMakeFiles/estruturas_de_dados.dir/main.c.obj	ad581bb345f2c0f
+20	171	7466214558433547	CMakeFiles/estruturas_de_dados.dir/queue.c.obj	43402e657b00273e
+108	236	7466216033575457	estruturas_de_dados.exe	9789e84673520084
+43	182	7466214558665772	CMakeFiles/estruturas_de_dados.dir/stack.c.obj	b1b8dd787a7d27f1
